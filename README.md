@@ -1,4 +1,2 @@
-Tarea 1.1
-Participantes:
-1) Nidia Alejandra Guzman Leon
-2) Angie Fabiola Fajardo Reyes    #20232000865
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.

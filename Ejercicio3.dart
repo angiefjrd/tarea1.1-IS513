@@ -13,7 +13,6 @@ void main(){
   print("Salario total: ${salarioTotal(empleados)}");
   print("Salario Promedio: ${salarioPromedio(empleados)}");
 
-  print(salarioTotal.runtimeType);
 
 }
 

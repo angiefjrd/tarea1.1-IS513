@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Tarea 1.1
+Particiopantes:
+1) Nidia Alejandra Guzman Leon.   #20222000622
+2) Angie Fabiola Fajardo Reyes.   #20232000865
